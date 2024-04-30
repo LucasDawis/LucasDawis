@@ -6,7 +6,7 @@
 - 🔭 Desenvolvedor em Back-End (Python)
 - 🎒 Se aventurando também pelo desenvolvimento web através do Django
 
-![image](https://github.com/LucasDawis/LucasDawis/assets/135227161/32af3865-b5cc-443a-80cf-332b314431ac) ![image](https://github.com/LucasDawis/LucasDawis/assets/135227161/c2a22508-2ecc-4e80-9387-726acf1160c6)
+![image](https://github.com/LucasDawis/LucasDawis/assets/135227161/41097236-9e13-4328-88ec-f6052ca53b03) ![image](https://github.com/LucasDawis/LucasDawis/assets/135227161/24770a6b-993d-4c42-9d32-4e3cbda9aa11)![image](https://github.com/LucasDawis/LucasDawis/assets/135227161/1a174666-e2d3-4cb8-bd5e-00bc7fd43676)
 
 
 
